@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\Quadrado\Quadrado\bin\Debug\Quadrado.exe.config
+C:\Users\aluno\source\repos\Quadrado\Quadrado\bin\Debug\Quadrado.exe
+C:\Users\aluno\source\repos\Quadrado\Quadrado\bin\Debug\Quadrado.pdb
+C:\Users\aluno\source\repos\Quadrado\Quadrado\obj\Debug\Quadrado.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Quadrado\Quadrado\obj\Debug\Quadrado.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Quadrado\Quadrado\obj\Debug\Quadrado.exe
+C:\Users\aluno\source\repos\Quadrado\Quadrado\obj\Debug\Quadrado.pdb
