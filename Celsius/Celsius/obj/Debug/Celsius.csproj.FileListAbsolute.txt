@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\Celsius\Celsius\bin\Debug\Celsius.exe.config
+C:\Users\aluno\source\repos\Celsius\Celsius\bin\Debug\Celsius.exe
+C:\Users\aluno\source\repos\Celsius\Celsius\bin\Debug\Celsius.pdb
+C:\Users\aluno\source\repos\Celsius\Celsius\obj\Debug\Celsius.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Celsius\Celsius\obj\Debug\Celsius.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Celsius\Celsius\obj\Debug\Celsius.exe
+C:\Users\aluno\source\repos\Celsius\Celsius\obj\Debug\Celsius.pdb
